@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="main-container">
-      <h1>Gerenciar pedidos:</h1>
+      <h1>Gerenciador de pedidos Vough :</h1>
       <Dashboard />
     </div>
   </div>

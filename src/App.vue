@@ -1,7 +1,10 @@
 <template>
-  <Navbar :logo="logo_src" :alt="app_name" />
-  <router-view/>
-  <Footer/>
+  <div>
+    <Navbar :logo="logo_src" :alt="app_name" />
+    <router-view/>
+    <Footer/>
+  </div>
+  
 </template>
 
 <script>
@@ -16,7 +19,7 @@ export default {
   data(){
     return{
       logo_src: "/img/logo.png",
-      app_name: "Make Your Burger"
+      app_name: "Monte Seu Burger"
     }
   }
 }
