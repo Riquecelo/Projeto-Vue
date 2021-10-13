@@ -5,14 +5,14 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Execute o seguinte comando no terminal
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Execute o seguinte comando em outro terminal
 ```
-npm run build
+npm run backend
 ```
 
 ### Customize configuration
