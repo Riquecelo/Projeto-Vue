@@ -1,9 +1,5 @@
 # projeto_burger
 
-## Project setup
-```
-npm install
-```
 
 ### Execute o seguinte comando no terminal
 ```
