@@ -126,6 +126,20 @@
       ],
       "status": "Solicitado",
       "id": 5
+    },
+    {
+      "nome": "Maria",
+      "fone": "55626216232",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Pepino",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 6
     }
   ]
 }
