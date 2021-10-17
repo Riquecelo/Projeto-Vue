@@ -2,6 +2,9 @@
 
 ### Finalidade do projeto
 - Projeto criado com o objetivo de conhecer e praticar o framework Vue.js
+- Simular o registro e a visualização de pedidos de um site
+- O cliente realiza seu pedido na página principal
+- Os pedidos são visualizados na página administrativa 'Pedidos'
 
 <img src='https://github.com/Riquecelo/Projeto-Vue/blob/main/public/img/show.gif'/>
 
