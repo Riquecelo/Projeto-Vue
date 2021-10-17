@@ -79,19 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "Marcos",
-      "fone": "91966335987",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Finalizado",
-      "id": 1
-    },
-    {
       "nome": "Rosa",
       "fone": "6655883344",
       "carne": "Veggie burger",
