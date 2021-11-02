@@ -1,3 +1,5 @@
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Riquecelo/Projeto-Vue" /> 
+
 # projeto_burger_vough <img src='https://github.com/Riquecelo/Projeto-Vue/blob/main/public/faviconVue.ico'/>
 
 ### Finalidade do projeto
